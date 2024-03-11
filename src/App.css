@@ -1,0 +1,19 @@
+
+
+
+
+.app {
+    color: rgb(241, 254, 247);  
+}
+
+.container__resident {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+}
+
+.app__error {
+    text-align: center;  
+    font-size: 2rem;
+}

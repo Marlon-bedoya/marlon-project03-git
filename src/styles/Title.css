@@ -1,0 +1,8 @@
+
+.app__title {
+    background-image: url('/public/rick-und-morty-t-shirts-logoshirt-shop.jpg');
+    background-size: 100%;
+    padding-bottom: 12rem;
+    margin-bottom: 1rem;
+    background-repeat: no-repeat;
+}
